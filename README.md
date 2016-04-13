@@ -1,6 +1,6 @@
-#Vote 2016
+#RAILS: Rapid Acceleration, Innovation, and Leadership in Sacramento
 
-To get the SASS working, run `sass --watch assets/stylesheets/sass:assets/stylesheets/output` from the project directory.
+> Website describing soon-to-be launched entrepreneurship program in Sacramento to support initiatives that help build a culture and an ecosystem for startups in the city.
 
 ### Public domain
 
