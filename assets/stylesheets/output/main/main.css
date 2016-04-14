@@ -1008,6 +1008,12 @@ figure {
   background-image: url(../../../images/alerts/info.svg);
 }
 
+.usa-alert-quote {
+  background-color: #e1f3f8;
+  background-image: url(../../../images/alerts/quote.png);
+  background-image: url(../../../images/alerts/quote.svg);
+}
+
 .usa-alert-warning {
   background-color: #fff1d2;
   background-image: url(../../../images/alerts/warning.png);
@@ -1303,7 +1309,7 @@ p {
 
   #navigation_bar li {
     display: inline;
-    margin-left: 5px;
+    margin-left: 10px;
     list-style-type: none;
   }
 
