@@ -1146,7 +1146,22 @@ p {
   width: 100%;
 }
 
+#myCanvas {
+    display: block;
+    padding: 0;
+    margin: 0 auto;
+}
 
+@media(max-width:1200px) {
+    .canvas-img {
+        margin: 0 0px;
+		text-align: center;
+    }
+    #myCanvas {
+        width: 100%;
+        height: auto;
+    }
+}
 
 .usa-circle-block img {
   width: 124px;
