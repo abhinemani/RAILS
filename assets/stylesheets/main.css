@@ -20,64 +20,64 @@ html {
 
 @font-face {
   font-family: 'Merriweather';
-  src: url(../../../fonts/merriweather-bold-webfont.eot);
-  src: url(../../../fonts/merriweather-bold-webfont.eot?#iefix) format("embedded-opentype"),url(../../../fonts/merriweather-bold-webfont.woff2) format("woff2"),url(../../../fonts/merriweather-bold-webfont.woff) format("woff"),url(../../../fonts/merriweather-bold-webfont.ttf) format("truetype"),url(../../../fonts/merriweather-bold-webfont.svg#merriweatherbold) format("svg");
+  src: url(../fonts/merriweather-bold-webfont.eot);
+  src: url(../fonts/merriweather-bold-webfont.eot?#iefix) format("embedded-opentype"),url(../fonts/merriweather-bold-webfont.woff2) format("woff2"),url(../fonts/merriweather-bold-webfont.woff) format("woff"),url(../fonts/merriweather-bold-webfont.ttf) format("truetype"),url(../fonts/merriweather-bold-webfont.svg#merriweatherbold) format("svg");
   font-weight: 700;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Merriweather';
-  src: url(../../../fonts/merriweather-regular-webfont.eot);
-  src: url(../../../fonts/merriweather-regular-webfont.eot?#iefix) format("embedded-opentype"),url(../../../fonts/merriweather-regular-webfont.woff2) format("woff2"),url(../../../fonts/merriweather-regular-webfont.woff) format("woff"),url(../../../fonts/merriweather-regular-webfont.ttf) format("truetype"),url(../../../fonts/merriweather-regular-webfont.svg#merriweatherregular) format("svg");
+  src: url(../fonts/merriweather-regular-webfont.eot);
+  src: url(../fonts/merriweather-regular-webfont.eot?#iefix) format("embedded-opentype"),url(../fonts/merriweather-regular-webfont.woff2) format("woff2"),url(../fonts/merriweather-regular-webfont.woff) format("woff"),url(../fonts/merriweather-regular-webfont.ttf) format("truetype"),url(../fonts/merriweather-regular-webfont.svg#merriweatherregular) format("svg");
   font-weight: 400;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Source Sans Pro';
-  src: url(../../../fonts/sourcesanspro-regular-webfont.eot);
-  src: url(../../../fonts/sourcesanspro-regular-webfont.eot?#iefix) format("embedded-opentype"),url(../../../fonts/sourcesanspro-regular-webfont.woff2) format("woff2"),url(../../../fonts/sourcesanspro-regular-webfont.woff) format("woff"),url(../../../fonts/sourcesanspro-regular-webfont.ttf) format("truetype"),url(../../../fonts/sourcesanspro-regular-webfont.svg#source_sans_proregular) format("svg");
+  src: url(../fonts/sourcesanspro-regular-webfont.eot);
+  src: url(../fonts/sourcesanspro-regular-webfont.eot?#iefix) format("embedded-opentype"),url(../fonts/sourcesanspro-regular-webfont.woff2) format("woff2"),url(../fonts/sourcesanspro-regular-webfont.woff) format("woff"),url(../fonts/sourcesanspro-regular-webfont.ttf) format("truetype"),url(../fonts/sourcesanspro-regular-webfont.svg#source_sans_proregular) format("svg");
   font-weight: 400;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Source Sans Pro';
-  src: url(../../../fonts/sourcesanspro-semibold-webfont.eot);
-  src: url(../../../fonts/sourcesanspro-semibold-webfont.eot?#iefix) format("embedded-opentype"),url(../../../fonts/sourcesanspro-semibold-webfont.woff2) format("woff2"),url(../../../fonts/sourcesanspro-semibold-webfont.woff) format("woff"),url(../../../fonts/sourcesanspro-semibold-webfont.ttf) format("truetype"),url(../../../fonts/sourcesanspro-semibold-webfont.svg#source_sans_prosemibold) format("svg");
+  src: url(../fonts/sourcesanspro-semibold-webfont.eot);
+  src: url(../fonts/sourcesanspro-semibold-webfont.eot?#iefix) format("embedded-opentype"),url(../fonts/sourcesanspro-semibold-webfont.woff2) format("woff2"),url(../fonts/sourcesanspro-semibold-webfont.woff) format("woff"),url(../fonts/sourcesanspro-semibold-webfont.ttf) format("truetype"),url(../fonts/sourcesanspro-semibold-webfont.svg#source_sans_prosemibold) format("svg");
   font-weight: 600;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Merriweather';
-  src: url(../../../fonts/merriweather-bold-webfont.eot);
-  src: url(../../../fonts/merriweather-bold-webfont.eot?#iefix) format("embedded-opentype"),url(../../../fonts/merriweather-bold-webfont.woff2) format("woff2"),url(../../../fonts/merriweather-bold-webfont.woff) format("woff"),url(../../../fonts/merriweather-bold-webfont.ttf) format("truetype"),url(../../../fonts/merriweather-bold-webfont.svg#merriweatherbold) format("svg");
+  src: url(../fonts/merriweather-bold-webfont.eot);
+  src: url(../fonts/merriweather-bold-webfont.eot?#iefix) format("embedded-opentype"),url(../fonts/merriweather-bold-webfont.woff2) format("woff2"),url(../fonts/merriweather-bold-webfont.woff) format("woff"),url(../fonts/merriweather-bold-webfont.ttf) format("truetype"),url(../fonts/merriweather-bold-webfont.svg#merriweatherbold) format("svg");
   font-weight: 700;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Merriweather';
-  src: url(../../../fonts/merriweather-regular-webfont.eot);
-  src: url(../../../fonts/merriweather-regular-webfont.eot?#iefix) format("embedded-opentype"),url(../../../fonts/merriweather-regular-webfont.woff2) format("woff2"),url(../../../fonts/merriweather-regular-webfont.woff) format("woff"),url(../../../fonts/merriweather-regular-webfont.ttf) format("truetype"),url(../../../fonts/merriweather-regular-webfont.svg#merriweatherregular) format("svg");
+  src: url(../fonts/merriweather-regular-webfont.eot);
+  src: url(../fonts/merriweather-regular-webfont.eot?#iefix) format("embedded-opentype"),url(../fonts/merriweather-regular-webfont.woff2) format("woff2"),url(../fonts/merriweather-regular-webfont.woff) format("woff"),url(../fonts/merriweather-regular-webfont.ttf) format("truetype"),url(../fonts/merriweather-regular-webfont.svg#merriweatherregular) format("svg");
   font-weight: 400;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Source Sans Pro';
-  src: url(../../../fonts/sourcesanspro-regular-webfont.eot);
-  src: url(../../../fonts/sourcesanspro-regular-webfont.eot?#iefix) format("embedded-opentype"),url(../../../fonts/sourcesanspro-regular-webfont.woff2) format("woff2"),url(../../../fonts/sourcesanspro-regular-webfont.woff) format("woff"),url(../../../fonts/sourcesanspro-regular-webfont.ttf) format("truetype"),url(../../../fonts/sourcesanspro-regular-webfont.svg#source_sans_proregular) format("svg");
+  src: url(../fonts/sourcesanspro-regular-webfont.eot);
+  src: url(../fonts/sourcesanspro-regular-webfont.eot?#iefix) format("embedded-opentype"),url(../fonts/sourcesanspro-regular-webfont.woff2) format("woff2"),url(../fonts/sourcesanspro-regular-webfont.woff) format("woff"),url(../fonts/sourcesanspro-regular-webfont.ttf) format("truetype"),url(../fonts/sourcesanspro-regular-webfont.svg#source_sans_proregular) format("svg");
   font-weight: 400;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Source Sans Pro';
-  src: url(../../../fonts/sourcesanspro-semibold-webfont.eot);
-  src: url(../../../fonts/sourcesanspro-semibold-webfont.eot?#iefix) format("embedded-opentype"),url(../../../fonts/sourcesanspro-semibold-webfont.woff2) format("woff2"),url(../../../fonts/sourcesanspro-semibold-webfont.woff) format("woff"),url(../../../fonts/sourcesanspro-semibold-webfont.ttf) format("truetype"),url(../../../fonts/sourcesanspro-semibold-webfont.svg#source_sans_prosemibold) format("svg");
+  src: url(../fonts/sourcesanspro-semibold-webfont.eot);
+  src: url(../fonts/sourcesanspro-semibold-webfont.eot?#iefix) format("embedded-opentype"),url(../fonts/sourcesanspro-semibold-webfont.woff2) format("woff2"),url(../fonts/sourcesanspro-semibold-webfont.woff) format("woff"),url(../fonts/sourcesanspro-semibold-webfont.ttf) format("truetype"),url(../fonts/sourcesanspro-semibold-webfont.svg#source_sans_prosemibold) format("svg");
   font-weight: 600;
   font-style: normal;
 }
@@ -111,7 +111,7 @@ h3 {
   -ms-appearance: none;
   -o-appearance: none;
   appearance: none;
-  background: #fff url(../../../images/arrow-down.svg) no-repeat;
+  background: #fff url(../images/arrow-down.svg) no-repeat;
   background-position: 98% center;
   background-size: 1em 1em;
   border: none;
@@ -320,7 +320,7 @@ figure {
 
 
 .hero {
-  background-image: linear-gradient(0deg,rgba(160,32,240,.5) 40%,rgba(255,255,255,1) 100%),url(../../../images/skyline.jpg);
+  background-image: linear-gradient(0deg,rgba(160,32,240,.5) 40%,rgba(255,255,255,1) 100%),url(../images/skyline.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   color: #fff;
@@ -420,7 +420,7 @@ figure {
 
 
 .ios .hero,.no-cssgradients .hero,.no-multiplebgs .hero {
-  background-image: url(../../../images/skyline2.jpg);
+  background-image: url(../images/skyline2.jpg);
 }
 
 
@@ -440,11 +440,11 @@ figure {
 }
 
 .no-svg .social-buttons div.facebook {
-  background-image: url(../../../images/facebook.png);
+  background-image: url(../images/facebook.png);
 }
 
 .no-svg .social-buttons div.twitter {
-  background-image: url(../../../images/twitter.png);
+  background-image: url(../images/twitter.png);
 }
 
 .overlay {
@@ -460,7 +460,7 @@ figure {
 
 
 .safari .hero {
-  background-image: url(../../../images/skyline2.jpg);
+  background-image: url(../images/skyline2.jpg);
 }
 
 .social-buttons {
@@ -492,7 +492,7 @@ figure {
 }
 
 .social-buttons div.facebook {
-  background-image: url(../../../images/facebook.svg);
+  background-image: url(../images/facebook.svg);
 }
 
 .social-buttons div.facebook:hover {
@@ -500,7 +500,7 @@ figure {
 }
 
 .social-buttons div.twitter {
-  background-image: url(../../../images/twitter.svg);
+  background-image: url(../images/twitter.svg);
 }
 
 .social-buttons div.twitter:hover {
@@ -1010,20 +1010,20 @@ figure {
 
 .usa-alert-info {
   background-color: #e1f3f8;
-  background-image: url(../../../images/alerts/info.png);
-  background-image: url(../../../images/alerts/info.svg);
+  background-image: url(../images/alerts/info.png);
+  background-image: url(../images/alerts/info.svg);
 }
 
 .usa-alert-quote {
   background-color: #F8B6FE;
-  background-image: url(../../../images/alerts/quote.png);
-  background-image: url(../../../images/alerts/quote.svg);
+  background-image: url(../images/alerts/quote.png);
+  background-image: url(../images/alerts/quote.svg);
 }
 
 .usa-alert-warning {
   background-color: #fff1d2;
-  background-image: url(../../../images/alerts/warning.png);
-  background-image: url(../../../images/alerts/warning.svg);
+  background-image: url(../images/alerts/warning.png);
+  background-image: url(../images/alerts/warning.svg);
 }
 
 @media screen and (min-width: 481px) {
@@ -1358,7 +1358,7 @@ p {
     width: 16px;
     margin-top: 16px;
     float: right;
-    background-image: url(../../../images/arrow-up.svg);
+    background-image: url(../images/arrow-up.svg);
     background-size: contain;
   }
 
