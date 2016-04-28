@@ -1,4 +1,0 @@
-scss:
-  exclude:
-    - "assets/stylesheets/sass/bourbon/**"
-    - "assets/stylesheets/sass/neat/**"
