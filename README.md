@@ -1,6 +1,6 @@
 #RAILS: Rapid Acceleration, Innovation, and Leadership in Sacramento
 
-Website describing soon-to-be launched entrepreneurship program in Sacramento to support initiatives that help build a culture and an ecosystem for startups in the city.
+Website describing soon-to-be launched entrepreneurship program in Sacramento to support initiatives that help build a culture and an ecosystem for startups in the city: http://cityofsacramento.org/rails/index.html
 
 ### Public domain
 
