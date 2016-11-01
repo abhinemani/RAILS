@@ -19,8 +19,8 @@ var public_spreadsheet_url = 'https://docs.google.com/spreadsheets/d/1mxrXQbNi9d
 				str += "<section  class='future' data-background-image='img/"+data[i].bg+"'>";
 				str += "<h1> <a target='_blank' href='" + data[i].Link + "'>" + data[i].Organization + "</a></h1>";
 				str += "<h4>" + data[i].Category + "  // " + data[i].Applicant + "   <a target='_blank' href='mailto:" + data[i].Email + "'><i class='fa fa-envelope-o' aria-hidden='true'></i></a> // "+  data[i].Grant + "</h4>";
-				str += "<blockquote>" + data[i].Quote + "</blockquote>";
 				str += "<p><strong>" + data[i].Description + "</strong></p>";
+				str += "<blockquote>" + data[i].Quote + "</blockquote>";
 				str += "</section>";				
 			}
 			gsheetClass.outerHTML=str; // it's simple replacement of whole element with contents of str var
